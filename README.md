@@ -1,5 +1,4 @@
-# credit-risk-analyzer
-README.mb
+
 # Credit Risk Analyzer
 
 Predicts credit default risk using structured data.
